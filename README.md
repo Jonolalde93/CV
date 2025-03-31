@@ -4,12 +4,12 @@
 [Email](jonolalde93@outlook.com) / [LinkedIn](www.linkedin.com/in/jon-olalde-jometon) / [GitHub]([https://github.com/Jonolalde93)
 
 💼 **Experiencia Laboral:**
-  Tecnico de Laboratorio - Achucarro Basque Centre of Neuroscience (Mayo 2022-Mayo 2024)
+Tecnico de Laboratorio - Achucarro Basque Centre of Neuroscience (Mayo 2022-Mayo 2024)
     Laboratorio de Modelos Humanizados de Enfermedad / Laboratorio de Neuroimagen y Biomarcadores de Inflamación
     Habilidades:
-     • Cultivos primarios, cultivo y diferenciación de células madre pluripotentes humanas (hESC/hiPSC).
-     • Modelos in vitro de la enfermedad de Alzheimer en ratones quiméricos.
-     • Tratamiento de muestras de pacientes con Enfermedad de Alzheimer
+    • Cultivos primarios, cultivo y diferenciación de células madre pluripotentes humanas (hESC/hiPSC).
+    • Modelos in vitro de la enfermedad de Alzheimer en ratones quiméricos.
+    • Tratamiento de muestras de pacientes con Enfermedad de Alzheimer
      • Separación celular mediante citometría de flujo.
      • qPCR.
      • Western blot.
@@ -27,5 +27,5 @@
     • Análisis bacteriológicos y PCR de alimentos.
     • Análisis de enfermedades aviares.
     • Análisis serológicos y virológicos.
-    • Análisis diagnósticos de EET (encefalopatías espongiformes transmisibles).
+    • Análisis diagnósticos de EET (encefalopatías espongiformes transmisibles).♠2
 ___
