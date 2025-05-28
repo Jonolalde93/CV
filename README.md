@@ -1,5 +1,6 @@
 # Jon Olalde Jometon
 **Data Scientist | MSc en Bioinformática y Bioestadística | Biólogo | Técnico Superior en Diagnóstico Clínico** 
+
 📍 Bilbao, España 
 📧 [Email](jonolalde93@outlook.com) / [LinkedIn](www.linkedin.com/in/jon-olalde-jometon) / [GitHub]([https://github.com/Jonolalde93)
 
