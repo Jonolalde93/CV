@@ -34,7 +34,7 @@ Exploración, visualización y modelado de un dataset real. Uso de Streamlit par
 - Microscopía de luz, confocal y electrónica.  
 - Imagen PET, SPECT, RM y análisis lipídico en modelos de ictus.
 
-### **Técnico de Laboratorio (Erasmus+)**  
+### **Técnico de Laboratorio (Programa Erasmus+)**  
 **Wojewózki Inspektort Weterynarii – Zakład Higieny Weterynaryjnej w Krakowie(Marzo 2016-Junio2016)**
 - Análisis químicos, serológicos, virológicos y microbiológicos de alimentos.  
 - Diagnóstico de triquinosis, enfermedades aviares y EET.  
