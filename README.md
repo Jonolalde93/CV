@@ -13,7 +13,7 @@ Soy Data Scientist con formación en Biología, especializado en Bioinformática
 
 ## 📂 Proyectos Destacados
 
-### 🧬 Predicción de riesgo en Alzheimer con Machine Learning  
+### 🧬 Análisis y desarrollo de modelos predictivos de Alzheimer mediante Machine Learning en base a factores de riesgo. 
 *Máster Bioinformática y Bioestadística – 2024*  
 Desarrollo de modelos predictivos con R y Python. Análisis multivariante de factores de riesgo y visualización de resultados clínicamente relevantes.
 
