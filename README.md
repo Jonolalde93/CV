@@ -15,11 +15,11 @@ Soy Data Scientist con formación en Biología, especializado en Bioinformática
 
 ### 🧬 Predicción de riesgo en Alzheimer con Machine Learning  
 *Máster Bioinformática y Bioestadística – 2024*  
-Desarrollo de modelos predictivos con Python y Scikit-Learn. Análisis multivariante de factores de riesgo y visualización de resultados clínicamente relevantes.
+Desarrollo de modelos predictivos con R y Python. Análisis multivariante de factores de riesgo y visualización de resultados clínicamente relevantes.
 
 ### 📊 Análisis Exploratorio del Dataset de Ictus  
 *Bootcamp The Bridge – 2025*  
-Exploración, visualización y modelado de un dataset real. Uso de Streamlit para presentación interactiva. [Repositorio disponible próximamente]
+Exploración, visualización y modelado de un dataset real. Uso de Streamlit para presentación interactiva. 
 
 ---
 
@@ -28,7 +28,8 @@ Exploración, visualización y modelado de un dataset real. Uso de Streamlit par
 ### **Técnico de Laboratorio**  
  **Achucarro Basque Center for Neuroscience, Leioa (2022 – 2024)**  
 - Cultivo y diferenciación de células madre pluripotentes humanas (hESC/hiPSC).  
-- Modelos in vitro de Alzheimer en ratones quiméricos.  
+- Modelos in vitro de Alzheimer en ratones quiméricos.
+- Tratamiento de muestras de pacientes con Enfermedad de Alzheimer
 - Análisis de muestras de pacientes: qPCR, Western blot, citometría, inmunofluorescencia.  
 - Microscopía de luz, confocal y electrónica.  
 - Imagen PET, SPECT, RM y análisis lipídico en modelos de ictus.
@@ -46,14 +47,14 @@ Exploración, visualización y modelado de un dataset real. Uso de Streamlit par
 ### **Bootcamp en Data Science (en curso)**  
 **The Bridge (Mar 2025 – Oct 2025)**  
 490h de formación intensiva en:
-- Python, R, SQL, APIs, Git & GitHub  
-- Visualización: Seaborn, Plotly, Streamlit, Power BI  
+- Python, R, SQL (MondoDB,Snowflake) APIs, Git & GitHub  
+- Visualización: Seaborn, Plotly, Streamlit, Power BI 
 - Machine Learning: Scikit-Learn, ANN/CNN, NLP  
 - Web scraping (Selenium, BeautifulSoup)
 
 ### **Máster en Bioinformática y Bioestadística**  
 **UCAM & Centro Europeo de Másters (2023 – 2024)**  
-TFM: *Modelos de ML para análisis de factores de riesgo en Alzheimer* (Nota: 8,96)  
+TFM: *Modelos de Machine Learning para análisis de factores de riesgo en Alzheimer* (Nota: 8,96)  
 - Python, R, ómicas, microarrays, NGS, RNA-seq, redes biológicas.
 
 ### **Grado en Biología**  
